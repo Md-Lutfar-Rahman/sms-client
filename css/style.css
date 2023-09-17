@@ -1,0 +1,49 @@
+body{
+    background-image: url("../img/White_Background-01.jpg");
+    background-repeat: repeat;
+    background-position: center center;
+
+}
+
+.my-color{
+    background: rgb(104,48,145);
+    height:66px;
+    width: 1140px;
+}
+.btn-color-1{
+    background:rgb(97,206,112) !important;
+}
+/* .my-color-2{
+
+} */
+.banner-section{
+    width: 1140px;
+    height:320px;
+}
+.banner-section img{
+    height:100%;
+    width:100%;
+}
+.navbar-section{
+    width:1140px;
+    margin: 0 auto;
+}
+.my-font-size{
+    font-size: 14px !important;
+}
+.footer-section{
+    width:1140px;
+    height:auto;
+    margin: 0 auto;
+   
+}
+.my-section{
+    width:1140px;
+    height:auto;
+    margin: 0 auto;
+}
+.PM-section img{
+    height:100%;
+    width: 100%;
+    padding:5px;
+}
